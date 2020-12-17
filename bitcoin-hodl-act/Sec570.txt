@@ -3,7 +3,7 @@
 
 H.R.XXX/SXXX
 
-To amend Chapter 28, United States Code, to provide that the United States Marshal Service securely keep and store
+To amend Chapter 28, United States Code, to provide that the United States Marshals Service securely keep and store
 Bitcoin assets acquired through seizure until further legislation is passed, effective immediately.
 
 IN THE XXXXXXXXXX
@@ -12,7 +12,7 @@ XXXXXXXX introduced the following bill; which was referred to the Committee on X
 
 A BILL
 
-To amend Chapter 28, United States Code, to provide that the United States Marshal Service securely keep and store
+To amend Chapter 28, United States Code, to provide that the United States Marshals Service securely keep and store
 Bitcoin assets acquired through seizure until further legislation is passed, effective immediately.
 
 Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
@@ -28,7 +28,7 @@ SEC 2. AMENDMENT TO CHAPTER 37 OF TITLE 28, UNITED STATES CODE
 “§570.Management of Bitcoin Assets Acquired Through Seizure
 
 “ (a) Notwithstanding any law or procedures established by the Director, all Bitcoin assets acquired by the
-United States Marshal Service shall be stored in a custodial wallet managed by the Treasury, not to be sold,
+United States Marshals Service shall be stored in a custodial wallet managed by the Treasury, not to be sold,
 swapped, auctioned, or otherwise encumbered, until further legislation.
 
 (b)Section (a) is crucial to giving Congress time to deliberate on the disposition of this unique asset.
